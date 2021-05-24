@@ -1,3 +1,3 @@
 # Htmldemo
-Htlm basic code
+Html basic code
 this is my first page
